@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/838_discoverychannel.jpg" group-title="Science",Discovery Bangla
+https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
+#EXTINF:-2 tvg-logo="https://etimg.etb2bimg.com/photo/90937508.cms" group-title="Sports",IPL T20
+https://prod-sports-south-gm.jiocinema.com//hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl24/master.m3u8
+#EXTINF:-3 tvg-logo="https://logowik.com/content/uploads/images/premier-league3330.jpg" group-title="Sports",Premiere League
+https://storage.googleapis.com/live-streamingspell1/main.m3u8
+#EXTINF:-4 tvg-logo="https://bestmediainfo.com/uploads/2022/12/1670321208.SONY-AATH.jpg" group-title="Entertaiment",Sony Aath
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-5 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20190810163545" group-title="Entertaiment",Star Jalsha Movies
+https://mhdtvpro.com/toffeelive/master.m3u8/?cid=streamhub&id=jalsha_movies
