@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/838_discoverychannel.jpg" group-title="Science",Discovery Bangla
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
+https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 #EXTINF:-2 tvg-logo="https://etimg.etb2bimg.com/photo/90937508.cms" group-title="Sports",IPL T20
 https://prod-sports-south-gm.jiocinema.com//hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl24/master.m3u8
 #EXTINF:-3 tvg-logo="https://logowik.com/content/uploads/images/premier-league3330.jpg" group-title="Sports",Premiere League
